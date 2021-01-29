@@ -1,3 +1,13 @@
+Interface experimental movie page
+On the site of the platform *thamanyah*
+For the purpose of the requirement to apply for a job as a programmer on the platform 
+
+
+
+
+
+
+
 Lity
 ====
 
